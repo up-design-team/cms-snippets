@@ -1,0 +1,76 @@
+<!--
+  An example of an image slider.
+  Please note: the commented snippet must be added once per image, then the
+  image's `alt` and `src` attribute values need to be added as well.
+-->
+<div class="up-img up-img--16x9 up-img--slider">
+  <span class="up-img__number" unselectable="on">
+    <strong class="up-strong">1</strong> of <strong class="up-strong">12</strong>
+  </span>
+  <div class="up-img__outer">
+    <div class="up-img__inner">
+      <!--
+        <div class="up-img__slide">
+          <div
+            aria-label="[ADD IMAGE'S ALT TEXT HERE]"
+            class="up-img__src"
+            data-background-color="#ededf0"
+            data-src="https://cms-lucent.baseux.com/[ADD IMAGE'S SOURCE HERE]"
+            role="img"
+          ></div>
+        </div>
+      -->
+    </div>
+  </div>
+  <div class="up-img__controls">
+    <button class="up-img__btn up-img__btn--prev" role="button" title="Previous">
+      <svg
+        aria-hidden="true"
+        class="up-img__icon up-icon"
+        height="64px"
+        viewBox="0 0 64 64"
+        version="1.1"
+        width="64px"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+      >
+        <defs>
+          <mask class="up-icon__mask">
+            <rect class="up-icon__mask up-icon__mask--visible" height="64" width="64" x="0" y="0" />
+            <circle class="up-icon__mask up-icon__mask--hidden" cx="32" cy="32" r="18" />
+          </mask>
+        </defs>
+        <circle class="up-icon__tint" cx="32" cy="32" r="20" />
+        <g class="up-icon__strokes">
+          <polyline class="up-icon__stroke" points="28 28.5 24.5 32 28 35.5" />
+          <line class="up-icon__stroke" x1="24.5" y1="32" x2="39.5" y2="32" />
+        </g>
+      </svg>
+    </button>
+    <div class="up-img__list"></div>
+    <button class="up-img__btn up-img__btn--next" role="button" title="Next">
+      <svg
+        aria-hidden="true"
+        class="up-img__icon up-icon"
+        height="64px"
+        viewBox="0 0 64 64"
+        version="1.1"
+        width="64px"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+      >
+        <defs>
+          <mask class="up-icon__mask">
+            <rect class="up-icon__mask up-icon__mask--visible" height="64" width="64" x="0" y="0" />
+            <circle class="up-icon__mask up-icon__mask--hidden" cx="32" cy="32" r="18" />
+          </mask>
+        </defs>
+        <circle class="up-icon__tint" cx="32" cy="32" r="20" />
+        <g class="up-icon__strokes">
+          <polyline class="up-icon__stroke" points="36 28.5 39.5 32 36 35.5" />
+          <line class="up-icon__stroke" x1="24.5" x2="39.5" y1="32" y2="32" />
+        </g>
+      </svg>
+    </button>
+  </div>
+</div>

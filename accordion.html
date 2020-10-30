@@ -1,0 +1,37 @@
+<!--
+  An example of an accordion.
+  Please note: the accordion label must be plain text, and the accordion content
+  must must be wrapped in its corresponding html tags.
+-->
+<div class="up-accordion">
+  <button aria-expanded="false" class="up-accordion__btn" role="button" title="Expand">
+    <span class="up-accordion__label">
+      <!-- [ADD ACCORDION LABEL HERE] -->
+    </span>
+    <svg
+      aria-hidden="true"
+      class="up-accordion__icon up-icon"
+      height="64px"
+      viewBox="0 0 64 64"
+      version="1.1"
+      width="64px"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+    >
+      <defs>
+        <mask class="up-icon__mask">
+          <rect class="up-icon__mask up-icon__mask--visible" height="64" width="64" x="0" y="0" />
+          <circle class="up-icon__mask up-icon__mask--hidden" cx="32" cy="32" r="18" />
+        </mask>
+      </defs>
+      <circle class="up-icon__tint" cx="32" cy="32" r="20" />
+      <g class="up-icon__strokes">
+        <line class="up-icon__stroke" x1="32" y1="24.5" x2="32" y2="39.5" />
+        <line class="up-icon__stroke" x1="24.5" y1="32" x2="39.5" y2="32" />
+      </g>
+    </svg>
+  </button>
+  <div class="up-accordion__inner">
+    <!-- [ADD ACCORDION CONTENT HERE] -->
+  </div>
+</div>
