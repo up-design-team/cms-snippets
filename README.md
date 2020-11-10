@@ -1,1 +1,1 @@
-# cms-snippets
+# CMS Snippets
