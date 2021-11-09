@@ -1,3 +1,3 @@
 # CMS Snippets
 
-Snippets for working in Drupal CMS.
+Snippets for working in UP Education's CMS.
