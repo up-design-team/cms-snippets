@@ -1,0 +1,84 @@
+<!--
+  An example of different uses of the borders.
+-->
+
+
+
+ <!--Case Study:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(151, 204, 91); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+  <h5 style="color: rgb(151, 204, 91);">Case Study</h5>
+
+  <!-- [ADD CONTENT] -->
+  
+  </div>
+
+<!--Tip:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(99, 179, 80); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+<h5 style="color: rgb(99, 179, 80);">Tip</h5>
+<!-- [ADD CONTENT] -->
+</div>
+
+<!--Reading:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(58, 128, 91); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+<h5 style="color: rgb(58, 128, 91);">Reading</h5>
+<!-- [ADD CONTENT] -->
+</div>
+
+<!--Reflection:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(36, 72, 78); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+<h5 style="color: rgb(36, 72, 78);">Reflection</h5>
+<!-- [ADD CONTENT] -->
+</div>
+
+
+<!--Trigger Warning:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(226, 81, 64); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+
+<h5 style="color: rgb(226, 81, 64);">Trigger Warning</h5>
+<!-- [ADD CONTENT] -->
+</div>
+
+<!--Practise:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(147, 196, 125); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+
+<h5 style="color: rgb(147, 196, 125);">Practise</h5>
+<!-- [ADD CONTENT] -->
+</div>
+
+<!--Share:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(207 , 171, 137); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+
+<h5 style="color: rgb(246 , 178, 107);">Share</h5>
+<!-- [ADD CONTENT] -->
+</div>
+
+<!--Explore:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(111 , 168, 220); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+
+<h5 style="color: rgb(111 , 168, 220);">Explore</h5>
+<!-- [ADD CONTENT] -->
+</div>
+
+<!--Caution:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(247 , 182, 94); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+
+<h5 style="color: rgb(247 , 182, 94);">Caution</h5>
+<!-- [ADD CONTENT] -->
+</div>
+
+<!--Important:-->
+
+<div style="padding: 1.5rem; border: 0.1rem solid rgba(121 , 45, 53); border-radius: 0.25rem; margin: 1.5rem 0; background-color: #fff;  font-style: italic;">
+
+<h5 style="color: rgb(121 , 45, 53);">Important</h5>
+<!-- [ADD CONTENT] -->
+</div>
