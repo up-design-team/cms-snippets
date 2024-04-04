@@ -5,4 +5,4 @@ Instructions:
 2. Carefully enter the H5P title between the comment tags pasting over H5P Title Here. Important note: you must leave the comment tags in place. 
 -->
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://cms-uped.baseux.com/h5p/xxxx/embed"><!-- ADD H5P TITLE HERE--></iframe>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://cms-uped.baseux.com/h5p/xxxx/embed"><!-- ADD H5P TITLE HERE --></iframe>
