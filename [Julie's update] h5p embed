@@ -1,8 +1,0 @@
-<!--
-Use this HTML code to embed H5P activities. 
-Instructions: 
-1. Copy the `embed` code from the H5P and replace the XXXX with that in the URL. 
-2. Carefully enter the H5P title between the comment tags pasting over H5P Title Here. Important note: you must leave the comment tags in place. 
--->
-
-<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://cms-uped.baseux.com/h5p/xxxx/embed"><!-- ADD H5P TITLE HERE --></iframe>
