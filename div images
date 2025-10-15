@@ -1,0 +1,12 @@
+<div style="width: 100%; overflow: hidden; margin: 24px 0;">
+  <img
+    alt="[alt image text]"
+    src="[source link]"
+    style="
+      width: 100%;
+      height: auto;
+      display: block;
+      object-fit: cover;
+    "
+  />
+</div>
